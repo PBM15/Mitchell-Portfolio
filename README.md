@@ -1,4 +1,5 @@
 [visualizing debt](visualizing-government-debt)
+
 # Portfolio
 This is my public portfolio for Telling Stories With Data at CMU.
 
