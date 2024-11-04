@@ -11,6 +11,13 @@ Hello, I am Pierce Mitchell, a current graduate student at the University of Car
 this is where future projects will go
 
 ### Final Project Part 1
+
+### Adding Images
+
+Here's an example of an image.  
+
+![2022 %GOP Debt Graph](export-2024-11-04T18_02_25.928Z.png)
+
 ### Final Project Part 2
 ### Final Project Part 3
 ### Final Project
