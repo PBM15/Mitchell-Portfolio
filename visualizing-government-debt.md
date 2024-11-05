@@ -1,4 +1,4 @@
-[home page]( https://pbm15.github.io/Mitchell-Portfolio/)
+[Home]( https://pbm15.github.io/Mitchell-Portfolio/)
 
 # Title
 Text here!
