@@ -76,13 +76,6 @@ I followed the instructions for uploading the data and editing it within Tableau
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-finally, use Markdown to write a paragraph or two about your thoughts on the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  It doesn't mean the last choice has to be necessarily better than the previous two, but I want to hear about why you chose it and what you were hoping it would show. 
+These different methods of visualization showcase how the same data can be used in different ways. For example, in the first image, we use the majority of the governments over the total timeline presented in a heat map using two colors to highlight the highest points and lowest points in the data set. In my second image, I have only the data from 2010 with only one color in an area chart to highlight the countries with the highest debt ratio during this time. These differences in chart type and use of color change what you are able to highlight in the data and how you can create a story from the data depending on how you use it. 
 
-_Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
-
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
-
-_It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
-
-
-
+For this second graph, I chose to do this more pointed graphic to try to focus on specific data. I learned how to filter the data I needed in addition to learning how to create an area chart that displays the data I wanted. By focusing on specific data, I was able to use a different visualization method like the area graph, allowing me to immediately highlight the largest data points compared to the other graphic where color is more important in showing data at first glance by using two colors to denote high and low. In addition, by only using one color, I was able to further reinforce the size of the data by using the concentration of color to also represent size, creating a second visual element that highlighted the data size.
