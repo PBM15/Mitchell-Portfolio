@@ -1,4 +1,4 @@
-[visualizing debt](visualizing-government-debt)
+[visualizing debt](visualizing-government-debt) | [home page]( https://pbm15.github.io/Mitchell-Portfolio/)
 
 # Portfolio
 This is my public portfolio for Telling Stories With Data at CMU.
