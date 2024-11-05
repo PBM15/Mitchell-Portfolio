@@ -1,12 +1,9 @@
 [Home]( https://pbm15.github.io/Mitchell-Portfolio/)
 
-# Title
-Text here!
-
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
+# Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
-
+![2022 %GOP Debt Graph](export-2024-11-04T18_02_25.928Z.png)
 _Include your visualization, and introduce us to what you did._
 
 ## Working with Tableau
