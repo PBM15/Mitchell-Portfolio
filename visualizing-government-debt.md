@@ -4,7 +4,7 @@
 
 ## Part one: Working with web-based visualization tools and data
 ![2022 %GOP Debt Graph](export-2024-11-04T18_02_25.928Z.png)
-_Include your visualization, and introduce us to what you did._
+The image was downloaded and then uploaded to Gethub.
 
 ## Working with Tableau
 <div class='tableauPlaceholder' id='viz1730763913358' style='position: relative'>
@@ -37,7 +37,7 @@ _Include your visualization, and introduce us to what you did._
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+I followed the instructions for uploading the data and editing it within Tableau and then uploaded the file to Tableau Public to allow the graphic to be added to this page.
 
 ## Part three: create your own visualization
 
