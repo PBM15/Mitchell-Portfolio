@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/)
+[home page]( https://pbm15.github.io/Mitchell-Portfolio/)
 
 # Title
 Text here!
