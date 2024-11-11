@@ -8,17 +8,23 @@ I chose this data because the topic was interesting to me, and the graphic used 
 
 ## Part two: 
 Usefulness: 10
-  It has all the data and can be used to find an example of a city of most sizes
+It has all the data and can be used to find an example of a city of most sizes
+
 Completeness:10
-  It contains all the relevant data necessary
+It contains all the relevant data necessary
+
 Perceptibility: 2
   It can be unwieldy do to the amount of data
+  
 Truthfulness: 10
   The data is unaltered from the source and is not presented in a un-honest manner
+  
 Intuitiveness: 10
   The type of graph used is common and easily readable to a wide audience
+  
 Aesthetics: 3
   The graphic is boring and large 
+  
 Engagement: 3
   The graphic is boring and large 
 
