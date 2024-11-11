@@ -4,6 +4,7 @@
 
 ## Part one: 
 https://www.redfin.com/news/homebuyer-income-afford-home-record-high/
+
 I chose this data because the topic was interesting to me, and the graphic used needed an update. The graphic used in this article is just a table that gives all the same data found in the Excel file they used to make the table. Because everything is included and it uses a table, there is not much in the way of a story being told, and the data is not easily visually understandable. It is for all of these reasons that I chose this graphic to redesign to help it fit more with the message of the article.
 
 ## Part two: 
