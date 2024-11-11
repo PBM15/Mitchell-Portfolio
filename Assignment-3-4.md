@@ -14,19 +14,19 @@ Completeness:10
 It contains all the relevant data necessary
 
 Perceptibility: 2
-  It can be unwieldy do to the amount of data
+It can be unwieldy do to the amount of data
   
 Truthfulness: 10
-  The data is unaltered from the source and is not presented in a un-honest manner
+The data is unaltered from the source and is not presented in a un-honest manner
   
 Intuitiveness: 10
-  The type of graph used is common and easily readable to a wide audience
+The type of graph used is common and easily readable to a wide audience
   
 Aesthetics: 3
-  The graphic is boring and large 
+The graphic is boring and large 
   
 Engagement: 3
-  The graphic is boring and large 
+The graphic is boring and large 
 
 Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  
 What stood out was that it was just a mass of raw data with no real message behind it. I think using a selection of cities was good to show the range of costs associated with buying a house in the US. I didn't think that using all of the cities was the best as it made the visual cluttered and vague in its point. I would reduce the amount of information and the size of the graphic.
