@@ -48,6 +48,8 @@ The image was taken on my phone and then uploaded to Gethub.
 ![Sketches](IMG_0682.jpeg)
 The image was taken on my phone and then uploaded to Gethub.
 
+This series of images shows my process of developing ways to focus the data and tell the story the article was trying to tell.
+
 ## Part four: 
 
 
