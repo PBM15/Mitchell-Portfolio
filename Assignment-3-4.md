@@ -55,6 +55,7 @@ This series of images shows my process of developing ways to focus the data and 
 From my user feedback, I learned that my title was confusing and that my axis labels and legend needed more detail to ensure everything was fully explained. In addition, I learned what information I needed to include in the footnotes to make sure that there was an explanation for the remaining elements of the graph that could be confusing. From this information, I changed my title, legend, and footnotes to be more informative and concise.
 
 ## Part five: 
+# Click on link below to see the full graph
 <div class='tableauPlaceholder' id='viz1731312205085' style='position: relative'>
   <noscript>
     <a href='#'>
