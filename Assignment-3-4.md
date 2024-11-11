@@ -8,25 +8,25 @@ https://www.redfin.com/news/homebuyer-income-afford-home-record-high/
 I chose this data because the topic was interesting to me, and the graphic used needed an update. The graphic used in this article is just a table that gives all the same data found in the Excel file they used to make the table. Because everything is included and it uses a table, there is not much in the way of a story being told, and the data is not easily visually understandable. It is for all of these reasons that I chose this graphic to redesign to help it fit more with the message of the article.
 
 ## Part two: 
-Usefulness: 10
+### Usefulness: 10
 It has all the data and can be used to find an example of a city of most sizes
 
-Completeness:10
+### Completeness:10
 It contains all the relevant data necessary
 
-Perceptibility: 2
+### Perceptibility: 2
 It can be unwieldy do to the amount of data
   
-Truthfulness: 10
+### Truthfulness: 10
 The data is unaltered from the source and is not presented in a un-honest manner
   
-Intuitiveness: 10
+### Intuitiveness: 10
 The type of graph used is common and easily readable to a wide audience
   
-Aesthetics: 3
+### Aesthetics: 3
 The graphic is boring and large 
   
-Engagement: 3
+### Engagement: 3
 The graphic is boring and large 
 
 Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  
