@@ -56,7 +56,8 @@ From my user feedback, I learned that my title was confusing and that my axis la
 
 ## Part five: 
 # Click on link below to see the full graph
-<div class='tableauPlaceholder' id='viz1731312205085' style='position: relative'>
+
+<div class='tableauPlaceholder' id='viz1731314979908' style='position: relative'>
   <noscript>
     <a href='#'>
       <img alt='Change in Annual Income Needed to Afford a Median-Priced Home in the U.S. From 2022-2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17313089721080&#47;Sheet1&#47;1_rss.png' style='border: none' />
@@ -79,9 +80,8 @@ From my user feedback, I learned that my title was confusing and that my axis la
     <param name='filter' value='publish=yes' />
   </object>
 </div>                
-
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1731313184747');                    
+  var divElement = document.getElementById('viz1731314979908');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
