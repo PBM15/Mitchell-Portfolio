@@ -80,13 +80,4 @@ From my user feedback, I learned that my title was confusing and that my axis la
   </object>
 </div>                
 
-<script type='text/javascript'> 
-  var divElement = document.getElementById('viz1731312205085');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                   
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
-
-Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
+This redesigned data visualization creates a visual way to see both the increase in total income needed to be able to afford a median-priced home in various metro areas around the USA and the percentage increase from the 2022 year to the 2023 year. I chose to use a dual-axis chart to allow the viewer to quickly see how much of an increase in income was needed from 2022 to 2023. I used a brighter color to help highlight this difference, and also included the exact increase and sorted the graph from smallest percent increase to largest. In this graph, I attempted to show the majority of the information displayed in the original table, but I also wanted to create a more visual way to experience the data and an easy visual way to see the areas with the largest and smallest increases.
