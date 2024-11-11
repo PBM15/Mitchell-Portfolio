@@ -39,7 +39,14 @@ I thought it did a good job and that it really reminded me of doing the out-loud
 
 
 ## Part three: 
+![Sketches](IMG_0680.jpeg)
+The image was taken on my phone and then uploaded to Gethub.
 
+![Sketches](IMG_0681.jpeg)
+The image was taken on my phone and then uploaded to Gethub.
+
+![Sketches](IMG_0682.jpeg)
+The image was taken on my phone and then uploaded to Gethub.
 
 ## Part four: 
 
