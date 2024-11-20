@@ -18,6 +18,7 @@ The source of my data for this project is NOAA and Berkeley Earth. Specifically,
 I plan to create bubble charts for each year of data that show the date that the tropical storm ended on the x-axis and the size of the storm on the y-axis. The top of the table would display that year and the average annual temperature. There would also then be a slider that would allow the viewer to go through each year of data, with the goal of the chart being the viewer able to visually see that as the year progresses, the annual average temperature increases and the number and size of tropical storms increase.  
  
 https://data.world/noaa/hurdat2 (https://www.nhc.noaa.gov/data/)
+
 https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_summary.txt (https://berkeleyearth.org/data/)
 
 # Method and medium
