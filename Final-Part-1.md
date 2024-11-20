@@ -11,6 +11,14 @@ Conflict: This trend of increasing average annual global temperature relates to 
 Resolution: To take action via donations to environmental nonprofits, further learning about global warming and its effects, and actions the reader can take now to reduce their impact on the environment.
 
 # Initial sketches
+![Graph Sketch #1](export-2024-11-04T18_02_25.928Z.png)
+The image was created and then uploaded to GitHub.
+
+![Graph Sketch #2](export-2024-11-04T18_02_25.928Z.png)
+The image was created and then uploaded to GitHub.
+
+![Graph Sketch #3](export-2024-11-04T18_02_25.928Z.png)
+The image was created and then uploaded to GitHub.
 
 # The data
 The source of my data for this project is NOAA and Berkeley Earth. Specifically, I have gathered data on the number and size of tropical storms that have occurred over the years from NOAA and the average annual global temperature for each year from Berkeley Earth. 
