@@ -11,13 +11,13 @@ Conflict: This trend of increasing average annual global temperature relates to 
 Resolution: To take action via donations to environmental nonprofits, further learning about global warming and its effects, and actions the reader can take now to reduce their impact on the environment.
 
 # Initial sketches
-![Graph Sketch #1](Screenshot 2024-11-20 135941.png)
+![Graph Sketch #1](Screenshot2024-11-20135941.png)
 The image was created and then uploaded to GitHub.
 
-![Graph Sketch #2](Screenshot 2024-11-20 140004.png)
+![Graph Sketch #2](Screenshot2024-11-20140004.png)
 The image was created and then uploaded to GitHub.
 
-![Graph Sketch #3](Screenshot 2024-11-20 140032.png)
+![Graph Sketch #3](Screenshot2024-11-20140032.png)
 The image was created and then uploaded to GitHub.
 
 # The data
