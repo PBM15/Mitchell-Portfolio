@@ -4,10 +4,10 @@
 https://carnegiemellon.shorthandstories.com/a-storm-is-brewing-the-climate-crisis/index.html
 
 # User research 
-
-
 ## Target audience
 For this "article," the target audience consisted of two groups. The first group is people who are interested in climate change and want to learn more about it and the impacts it has on our lives. The second group is professionals in environmental conservation who might be interested in finding unique data visuals to help them in their jobs.
+
+I want to get a selection of ages and backgrounds to see how the visuals are received and how well they tell the story I am trying to convey.
 
 ## Interview script
 1. What was your main takeaway from each graph? The goal of this question was to see if the viewer was able to see the main data/ story I was trying to highlight.
