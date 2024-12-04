@@ -1,4 +1,4 @@
-[Home]( https://pbm15.github.io/Mitchell-Portfolio/) | [visualizing debt](visualizing-government-debt) | [home page]( https://pbm15.github.io/Mitchell-Portfolio/) | [Assignment 3+4](Assignment-3-4) | [Final Part 1](Final-Part-1) | [Final Part 2](final-project-part-two) | [Final Part 3](final-project-part-3)
+[Home]( https://pbm15.github.io/Mitchell-Portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Assignment 3+4](Assignment-3-4) | [Final Part 1](Final-Part-1) | [Final Part 2](final-project-part-two) | [Final Part 3](final-project-part-3)
 
 # An outline
 I am interested in showing the viewer how the climate of the Earth has changed over time and how that change is directly related to the number and size of tropical storms that occur. To do this, I plan to show data related to the number and size of tropical storms that have occurred in the Atlantic Ocean over the year, along with data about the average annual global temperature.
