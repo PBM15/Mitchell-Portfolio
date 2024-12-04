@@ -1,5 +1,4 @@
-[Home]( https://pbm15.github.io/Mitchell-Portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Assignment 3+4](Assignment-3-4) | [Final Part 1](Final-Part-1) | [Final Part 2](final-project-part-two) | [Final Part 3](final-project-part-3)
-
+[Home]( https://pbm15.github.io/Mitchell-Portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Assignment 3+4](Assignment-3-4) | [Final Part 1](Final-Part-1) | [Final Part 2](final-project-part-two) | [Final Part 3](final-project-part-three)
 # Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
