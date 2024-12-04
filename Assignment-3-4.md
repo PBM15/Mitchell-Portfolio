@@ -1,4 +1,4 @@
-[Home]( https://pbm15.github.io/Mitchell-Portfolio/)
+[Home]( https://pbm15.github.io/Mitchell-Portfolio/) | [visualizing debt](visualizing-government-debt) | [home page]( https://pbm15.github.io/Mitchell-Portfolio/) | [Assignment 3+4](Assignment-3-4) | [Final Part 1](Final-Part-1) | [Final Part 2](final-project-part-two) | [Final Part 3](final-project-part-3)
 
 # Assignment 3+4
 
