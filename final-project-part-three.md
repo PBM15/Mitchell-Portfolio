@@ -1,54 +1,9 @@
 [Home]( https://pbm15.github.io/Mitchell-Portfolio/) | [Visualizing Debt](visualizing-government-debt) | [Assignment 3+4](Assignment-3-4) | [Final Part 1](Final-Part-1) | [Final Part 2](final-project-part-two) | [Final Part 3](final-project-part-3)
 
-# Wireframes / storyboards
+# FINAL STORY (SHORTHAND LINK)
 https://carnegiemellon.shorthandstories.com/a-storm-is-brewing-the-climate-crisis/index.html
 
-# User research 
-## Target audience
-For this "article," the target audience consisted of two groups. The first group is people who are interested in climate change and want to learn more about it and the impacts it has on our lives. The second group is professionals in environmental conservation who might be interested in finding unique data visuals to help them in their jobs.
-
-I want to get a selection of ages and backgrounds to see how the visuals are received and how well they tell the story I am trying to convey.
-
-## Interview script
-1. What was your main takeaway from each graph? The goal of this question was to see if the viewer was able to see the main data/ story I was trying to highlight.
-
-2. Did you see a story being told in the data? The goal of this question was to see if the viewer was able to connect the pieces of the story from visuals and put them together to see the larger picture.  
-
-3. How could the graphs be made easier to read/ understand? The goal of this question was to identify any areas in the visuals that were confusing or were visually cluttered and how to address these issues.
-
-4. Was anything confusing or in need of an explanation? The goal of this question was to find if there was any section of the "article" that was confusing in its layout or that could be adjusted to help better tell the story by aiding the visuals with more text explanations.
-
-5. Did the theme of the webpage fit with the story being told? The goal of this question was to identify if the aesthetic theme matched with the story being told by the data.
-
-## Interview findings
-Question 1
-  Int 1: Yes, but the use of color could be helpful to highlight the desired pieces more
-  Int 2: Needs better titles to help explain the graphs
-  Int 3: Footnotes to explain uncommon words
-  
-Question 2
-  Int 1: Yes
-  Int 2: Yes, but strengthen it with the writing before the visuals
-  Int 3: Yes
-  
-Question 3
-  Int 1: Highlight the lines of best fit, not the data line
-  Int 2: Include a more detailed legend
-  Int 3: Include a more detailed legend and expand the axis on the scrollable chart to make the data less cluttered
-  
-Question 4
-  Int 1: No
-  Int 2: Could add some data before the visuals to help create a clear idea of what the viewer should focus on in the visuals
-  Int 3: some of the definitions around tropical storms and cyclones could be added
-   
-Question 5
-  Int 1: Yes
-  Int 2: Yes, make sure to use images of ocean and storms
-  Int 3: Yes, visuals of the storms being tracked would also be helpful
-
-# Identified changes for Part III
-I plan to add much more detail to the written sections of the "article." in addition, I need to do some more research to find some data that will help tell my story, as well as research in the final call to action section. I also need to edit my graphics to be more visually appealing and to articulate the story I am trying to tell better visually. I also need to add a new ledged for the scrollable chart that is more thorough and several footnotes for the various charts explaining ideas or words that are not common knowledge.
-
-# Methodology
-To create this story, I have had to heavily edit and manipulate my data from NOAA to create the scrollable chart. Initially, I had thought that the pages feature in Tableau would be able to do everything I needed it to, but this was not the case. To get the data to work how I wanted to, I had first to sort the data and find a way to cull it to what I needed. To do this, I sorted the data by year, cyclone number for that year, and max wind speed. After this, I created a formula to calculate only the first entry for each cyclone. This reduced my data from ~50,000 rows to ~2,000. I then had to create a new date column that removed the year, to do this, I created a formula that subtracted the year from the date data, as they were both held as numbers, not dates. I added the same year to each date from this new column to create two different date columns. I then used the dates with the same years to form my axis and then the dates with the actual years to sort with the pages function.
-
+# Final Writeup
+For this project, we started by learning the basics of Github, Tableau, and Shorthand. During this time, I also started to think about the types of data I could use to tell a story. I was debating between something with climate change or something to do with housing. I ended up going with climate change after the class, where we learned how to use pages, as I thought I would be able to create a unique way to show climate change data over time. I picked climate change and focused on the increasing global temperature and the increasing number of tropical cyclones. 
+To start to tell this story, I first had to find my data, and to do this, I used NOAA as my main source as I already knew they tracked the data I needed. The only issue with this data was that the data sets were massive. I ended up with a data set of over 50,000 entries, and I had to pull the data I needed from it. I am not a good coder, so to accomplish this task, I had to find a way to do it in Excel. I sorted the data by year, then the cyclone number for that year, and then by the max wind speed. From this, I was then able to make a function that subtracted the cyclone number of the one entry from the one below it. This then produced either 0 or another number if it was 0; that was data from the same storm that could be removed, and all other numbers were to be kept. Using the sorting function, I was then able to remove all rows that contained 0 to be left with my final data set. At this point, we started to outline and storyboard ideas for the visuals we would make. From these sketches, I made my first versions of my tables in Tableau, followed by another updated set after I figured out how to make my idea with pages work. To do this, I had to further edit my data by converting the date column to a whole number and then subtracting the "year" from the string. In order to make sure that the years were subtracted properly, I used the year column. I then added the year 2000 back to the data and then converted the number back to a date. This data was then able to be used as my x-axis while sorting the pages by year to create my scrolling chart.
+I also worked on my shorthand webpage by creating an outline for my story. I also made visual changes to my graphs to help them tell their stories. In addition, I also added some titles and edited the axes to be more accurate to the data. In terms of what I did for shorthand, I found non-copyrighted images, added links to organization, and filled out the outlined story I made in part two. I also implemented the change of adding some definitions for words or concepts that would not be considered common knowledge. Most of the changes made to the visuals and the writing that were not planned in part 2 were due to the notes from my interviews, specifically the notes about the use of color and adding definitions for some keywords and ideas. These changes were made to specifically make it easier for the audience to understand the story and visualy process the data in my graphs.
